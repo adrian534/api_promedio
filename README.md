@@ -13,7 +13,7 @@ Este proyecto consiste en el desarrollo de una API REST utilizando **Python** y 
 
 ### 1. Ejecución del Servidor
 A continuación se muestra la terminal con el servidor de Flask activo y corriendo en el entorno local:
-![Servidor Activo](URL_DE_TU_CAPTURA_1)
+![Servidor Activo](URL_DE_TU_CAPTURA_1.png)
 
 ### 2. Prueba de la API (Petición POST)
 Prueba realizada mediante el comando `curl`, donde se observa el envío de datos y la respuesta exitosa del servidor con el promedio calculado:
