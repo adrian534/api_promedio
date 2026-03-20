@@ -21,7 +21,7 @@ Prueba realizada mediante el comando `curl`, donde se observa el envío de datos
 
 ### 3. Error de Método (Navegador)
 Evidencia de que el endpoint `/promedio` está protegido y solo acepta el método POST (en el navegador muestra *Method Not Allowed*):
-![Error de Método](URL_DE_TU_CAPTURA_3,png)
+![Error de Método](URL_DE_TU_CAPTURA_3.png)
 
 ---
 
