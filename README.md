@@ -17,11 +17,11 @@ A continuación se muestra la terminal con el servidor de Flask activo y corrien
 
 ### 2. Prueba de la API (Petición POST)
 Prueba realizada mediante el comando `curl`, donde se observa el envío de datos y la respuesta exitosa del servidor con el promedio calculado:
-![Prueba de API](URL_DE_TU_CAPTURA_2)
+![Prueba de API](URL_DE_TU_CAPTURA_2.png)
 
 ### 3. Error de Método (Navegador)
 Evidencia de que el endpoint `/promedio` está protegido y solo acepta el método POST (en el navegador muestra *Method Not Allowed*):
-![Error de Método](URL_DE_TU_CAPTURA_3)
+![Error de Método](URL_DE_TU_CAPTURA_3,png)
 
 ---
 
